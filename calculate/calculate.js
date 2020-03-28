@@ -31,8 +31,8 @@ document.getElementById('colors').onchange = function(){
        document.getElementById('inp').style.color = 'white'
        break;
        case 'img': 
-       document.body.style.background="rgb(9,9,9)";
-       document.body.style.background="radial-gradient(circle, rgba(9,9,9,1) 0%, rgba(31,148,206,1) 44%, rgba(86,178,222,1) 53%, rgba(241,13,53,1) 85%, rgba(237,255,0,1) 100%)"
+       document.body.style.background="rgb(0,74,67)";
+       document.body.style.background="linear-gradient(94deg, rgba(0,74,67,1) 21%, rgba(226,220,218,1) 22%, rgba(201,201,201,1) 57%, rgba(243,255,235,1) 78%, rgba(219,95,8,1) 79%)"
        document.body.style.backgroundSize = '100% 100%'
        document.body.style.backgroundPosition= 'center'
        break;
