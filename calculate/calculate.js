@@ -12,6 +12,7 @@ function total(){
 
 function cleara(){
     document.getElementById('inp').value ="";
+    document.getElementById('screen').innerHTML = "Чавоб: "
 }
 
 
